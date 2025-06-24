@@ -5,3 +5,4 @@
 3. Create a flutter app to display a profile card using Row and Column widget.
 4. Create a local image to display a image in the profile card.
 5. Create a responsive UI for profile card.
+6. Create a navigation between pages.
