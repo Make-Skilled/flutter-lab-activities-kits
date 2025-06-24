@@ -18,12 +18,12 @@ class MyApp extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                'Name: John Doe',
+                'Name: Madhu',
                 style: TextStyle(fontSize: 24),
               ),
               SizedBox(height: 10), // spacing between lines
               Text(
-                'Roll No: 123456',
+                'Roll No: 10211A0478',
                 style: TextStyle(fontSize: 20),
               ),
             ],
